@@ -1,2 +1,2 @@
-# Radar-Pol-tico-Observat-rio-Educacional
+# Radar-Politico-Observatorio-Educacional
 Trabalho da disciplina final de projeto em Big data 
